@@ -1,6 +1,6 @@
 export const AIRTABLE_BASE = 'app1XEyXqNSWQnhTM';
 export const AIRTABLE_API_KEY = 'keyyCB522llXkLKKE';
-export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/shryuZ4FQQYP5VUAP';
+export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/embed/shryuZ4FQQYP5VUAP';
 
 export const MAPBOX_STYLE = 'mapbox://styles/otcrew/cljb7mpjw003c01o44gwegzv9';
 export const MAPBOX_BASE_STYLE = 'mapbox://styles/otcrew/cljb7mpjw003c01o44gwegzv9';
