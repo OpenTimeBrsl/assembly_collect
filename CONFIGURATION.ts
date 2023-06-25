@@ -1,4 +1,4 @@
-export const AIRTABLE_BASE = 'appuAa65B1iKwaXXb';
+export const AIRTABLE_BASE = 'app1XEyXqNSWQnhTM';
 export const AIRTABLE_API_KEY = 'keyyCB522llXkLKKE';
 export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/shryuZ4FQQYP5VUAP';
 
